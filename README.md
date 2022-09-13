@@ -2,9 +2,11 @@
 <h1 align="center">Hi 👋, I'm misara hamed</h1>
 <h3 align="center">Senior Front-End Developer seeking for learning new technologies and gaining more experience in developing apps</h3>
 
-<p align="right"> <img src="https://github.com/misaraadel/sonbola/blob/main/dev.svg" width="300px" height="450px" alt="misaraadel" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=misaraadel&label=Profile%20views&color=0e75b6&style=flat" alt="misaraadel" /> </p>
+
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=misaraadel&label=Profile%20views&color=0e75b6&style=flat" alt="misaraadel" /> </p>
 
 <p align="left"> <a href="https://twitter.com/md_olaaaa" target="blank"><img src="https://img.shields.io/twitter/follow/md_olaaaa?logo=twitter&style=for-the-badge" alt="md_olaaaa" /></a> </p>
 
@@ -17,6 +19,11 @@
 - 📫 How to reach me **misaraadel@gmail.com**
 
 - 📄 Know about my experiences [My CV](https://www.mediafire.com/file/pgl6zq4nibm7jba/misara_cv.pdf/file)
+  </div>
+  <p align="right"> <img src="https://github.com/misaraadel/sonbola/blob/main/dev.svg" width="300px" height="450px" alt="misaraadel" /> </p>
+ </div>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
