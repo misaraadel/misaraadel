@@ -16,16 +16,16 @@
 
 - 📫 How to reach me **misaraadel@gmail.com**
 
-- 📄 Know about my experiences [https://www.mediafire.com/file/pgl6zq4nibm7jba/misara_cv.pdf/file](https://www.mediafire.com/file/pgl6zq4nibm7jba/misara_cv.pdf/file)
+- 📄 Know about my experiences [My CV](https://www.mediafire.com/file/pgl6zq4nibm7jba/misara_cv.pdf/file)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/misraa-hamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="misraa-hamed" height="30" width="40" /></a>
-<a href="https://twitter.com/md_olaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="md_olaaaa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/misara-hamed-3764ab171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="misara-hamed-3764ab171" height="30" width="40" /></a>
-<a href="https://fb.com/misraa.adel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="misraa.adel" height="30" width="40" /></a>
-<a href="https://instagram.com/m_dolaaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_dolaaaaa" height="30" width="40" /></a>
-<a href="https://api.whatsapp.com/send?phone=201007425819"><img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" style="width: 30px; height: 40px; object-fit: contain;" align="center" alt="misara hammed" /></a> .
+<a href="https://codepen.io/misraa-hamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="misraa-hamed" height="30" width="30" /></a>
+<a href="https://twitter.com/md_olaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="md_olaaaa" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/misara-hamed-3764ab171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="misara-hamed-3764ab171" height="30" width="30" /></a>
+<a href="https://fb.com/misraa.adel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="misraa.adel" height="30" width="30" /></a>
+<a href="https://instagram.com/m_dolaaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_dolaaaaa" height="30" width="30" /></a>
+<a href="https://api.whatsapp.com/send?phone=201007425819"><img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" style="width: 30px; height: 30px; object-fit: contain;" align="center" alt="misara hammed" /></a> .
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
