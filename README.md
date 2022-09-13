@@ -1,8 +1,8 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQH5JOIFWBLt5Q/profile-displaybackgroundimage-shrink_350_1400/0/1662919065425?e=1668643200&v=beta&t=dZJlvVQ3HV8ESMgCqN9vUwJCYeSNGbor3sNB5mLWXiE" style="width: 100%; height: 200px; object-fit:cover" alt="misara hammed" />
+<img src="https://media-exp1.licdn.com/dms/image/C4D16AQH5JOIFWBLt5Q/profile-displaybackgroundimage-shrink_350_1400/0/1662919065425?e=1668643200&v=beta&t=dZJlvVQ3HV8ESMgCqN9vUwJCYeSNGbor3sNB5mLWXiE" style="width: 100%; height: 300px; object-fit:contain" alt="misara hammed" />
 <h1 align="center">Hi 👋, I'm misara hamed</h1>
 <h3 align="center">Senior Front-End Developer seeking for learning new technologies and gaining more experience in developing apps</h3>
 
-<p align="right"> <img src="https://raw.githubusercontent.com/misaraadel/sonbola/main/misara_logo.svg" width="120px" height="120px" alt="misaraadel" /> </p>
+<p align="right"> <img src="https://raw.githubusercontent.com/misaraadel/sonbola/main/misara_logo.svg" width="200px" height="200px" alt="misaraadel" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=misaraadel&label=Profile%20views&color=0e75b6&style=flat" alt="misaraadel" /> </p>
 
@@ -25,7 +25,7 @@
 <a href="https://linkedin.com/in/misara-hamed-3764ab171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="misara-hamed-3764ab171" height="30" width="40" /></a>
 <a href="https://fb.com/misraa.adel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="misraa.adel" height="30" width="40" /></a>
 <a href="https://instagram.com/m_dolaaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_dolaaaaa" height="30" width="40" /></a>
-<a href="https://api.whatsapp.com/send?phone=201007425819"><img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" style="width: 30px; height: 30px; object-fit: contain;margin-left: 10px;" /></a> .
+<a href="https://api.whatsapp.com/send?phone=201007425819"><img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" style="width: 30px; height: 40px; object-fit: contain;" align="center" alt="misara hammed" /></a> .
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
