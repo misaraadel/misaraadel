@@ -1,4 +1,4 @@
-<img src="https://github.com/misaraadel/sonbola/blob/main/dark.png" style="width: 100%; height: 382px; object-fit: cover; object-position: bottom;" alt="misara hammed" />
+<img src="https://github.com/misaraadel/sonbola/blob/main/dark.png" style="width: 100%; height: 500px; object-fit: cover; object-position: bottom;" alt="misara hammed" />
 <h1 align="center">Hi 👋, I'm misara hamed</h1>
 <h3 align="center">Senior Front-End Developer seeking for learning new technologies and gaining more experience in developing apps</h3>
 
