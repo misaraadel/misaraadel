@@ -34,7 +34,7 @@
 <a href="https://linkedin.com/in/misara-hamed-3764ab171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="misara-hamed-3764ab171" height="30" width="30" /></a>
 <a href="https://fb.com/misraa.adel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="misraa.adel" height="30" width="30" /></a>
 <a href="https://instagram.com/m_dolaaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_dolaaaaa" height="30" width="30" /></a>
-<a href="https://api.whatsapp.com/send?phone=201007425819"><img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" style="width: 30px; height: 30px; object-fit: contain;" align="center" alt="misara hammed" /></a> .
+<a href="https://api.whatsapp.com/send?phone=201007425819"><img src="https://cdn-icons-png.flaticon.com/512/733/733585.png"  height="30" width="30" style="object-fit: contain;" align="center" alt="misara hammed" /></a> .
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
