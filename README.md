@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm misara hamed</h1>
 <h3 align="center">Senior Front-End Developer seeking for learning new technologies and gaining more experience in developing apps</h3>
 
-<p align="left">
+<p align="right">
  <img src="https://github.com/misaraadel/sonbola/blob/main/dev.svg" width="300px" height="350px" alt="misaraadel" />
   </p>
 
