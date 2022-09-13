@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [My CV](https://www.mediafire.com/file/pgl6zq4nibm7jba/misara_cv.pdf/file)
   </div>
-  <p align="right"> <img src="https://github.com/misaraadel/sonbola/blob/main/dev.svg" width="300px" height="450px" alt="misaraadel" /> </p>
+  <p align="right" style="width: 300px; height: 450px;"> <img src="https://github.com/misaraadel/sonbola/blob/main/dev.svg" width="300px" height="450px" alt="misaraadel" /> </p>
  </div>
 
 
